@@ -1,0 +1,11 @@
+.flavor-background {
+  background-color: #65bcd4;
+}
+
+#trigger {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  left: calc(50% - 50px);
+  top: calc(50% - 25px);
+}
